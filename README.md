@@ -1,7 +1,7 @@
 # telegram-account-bot
 电报自动记账机器人 tg记账 tg自动记账 telegram记账
 
-自动记账机器人，可定制，联系tg：https://t.me/nomore1000
+自动记账机器人，可定制，带后台管理系统， 联系tg：https://t.me/nomore1000
 
 群组记账机器人 使用说明
 
